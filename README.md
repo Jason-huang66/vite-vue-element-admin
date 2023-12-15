@@ -1,7 +1,3 @@
-# Vue 3 + Vite
+# Vue + Element + Admin + Vite
+此项目旨在将花裤衩的经典vue2项目从webpack打包迁移到vite,提高个人对vite的实操能力,若有读者在vue2老项目迁移vite过程中遇到问题,欢迎与我交流探讨😀
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
