@@ -20,8 +20,8 @@ export default {
     }
   },
   computed: {
-    defaultTheme() {
-      return this.$store.state.settings.theme
+    defaultTheme () {
+      return ORIGINAL_THEME
     }
   },
   watch: {
